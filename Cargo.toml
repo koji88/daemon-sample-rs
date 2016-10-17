@@ -1,0 +1,9 @@
+[package]
+authors = ["koji88a <koji.hachiya@gmail.com>"]
+name = "daemon-sample-rs"
+version = "0.1.0"
+
+[dependencies]
+chan = "0.1.18"
+chan-signal = "0.1.7"
+nix = "0.7.0"
